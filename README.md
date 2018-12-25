@@ -27,7 +27,7 @@ Machine Learning implementation on various competitions primarily on regression 
 <img src="presentation.gif" alt="result" width="500">
 
 ## Result
-**Top 13% (334 out of 4307 teams)** on the leaderboard
+**Top 13% (334 out of 4307 teams)** on the leaderboard (MetaModel: XGB: LGBM = 0.4:0.3:0.3 )
 
 ## References
 **Titatic**
