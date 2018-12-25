@@ -35,6 +35,6 @@ Machine Learning implementation on various competitions primarily on regression 
 
 **House**
 1. Comprehensive data exploration with Python by **Pedro Marcelino** 
-https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python
+<br>https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python
 2. Stacked Regressions : Top 4% on LeaderBoard by **Serigne**
-https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard
+<br>https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard
