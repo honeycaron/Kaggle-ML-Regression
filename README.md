@@ -1,5 +1,5 @@
 # Kaggle-ML-Regression
-Machine Learning regression implementation on various competitions in <a href="https://www.kaggle.com" value="Kaggle"/>
+Machine Learning regression implementation on various competitions in [Kaggle](https://www.kaggle.com)
 
 ## Detail
 ### 1. Titanic: Machine Learning from Disaster
