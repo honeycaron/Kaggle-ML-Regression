@@ -4,19 +4,19 @@
 Machine Learning implementation on various competitions primarily on regression model
 
 ### 1. Titanic: Machine Learning from Disaster
-#### Practice Skills
+####   Practice Skills
  - Binary classification
  - Python and R basics
   
 ### 2. Bike Sharing Demand
-#### Practice Skills
+####   Practice Skills
  - Linear Regression
  - Ridge, Lasso Models
  - Random Forest
  - Gradient Boosting
   
 ### 3. House Prices: Advanced Regression Techniques
-#### Practice Skills
+####   Practice Skills
  - Linear Regression
  - Ridge, Lasso, Elastic Net Models
  - Gradient Boosting, XGBoost, LGBM
@@ -27,4 +27,12 @@ Machine Learning implementation on various competitions primarily on regression 
 <img src="presentation.gif" alt="result" width="500">
 
 ## Reference
+**Titatic**
+1. https://www.youtube.com/watch?v=aqp_9HV58Ls by Minsuk Heo
+
+**Bike**
+1. https://www.youtube.com/watch?v=Q_MbN-vu_2w by todaycodes
+
+**House**
 1. Comprehensive data exploration with Python by **Pedro Marcelino** 
+2. Stacked Regressions : Top 4% on LeaderBoard by **Serigne**
