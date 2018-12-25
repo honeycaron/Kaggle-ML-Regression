@@ -25,3 +25,6 @@ Machine Learning implementation on various competitions primarily on regression 
 
 ## Presentation
 <img src="presentation.gif" alt="result" width="500">
+
+## Reference
+1. Comprehensive data exploration with Python by **Pedro Marcelino** 
