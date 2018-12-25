@@ -6,12 +6,14 @@ Machine Learning implementation on various competitions
 <Practice Skills>
 - Binary classification
 - Python and R basics
+  
 ### 2. Bike Sharing Demand
 <Practice Skills>
 - Linear Regression
 - Ridge, Lasso Models
 - Random Forest
 - Gradient Boosting
+  
 ### 3. House Prices: Advanced Regression Techniques
 <Practice Skills>
 - Linear Regression
