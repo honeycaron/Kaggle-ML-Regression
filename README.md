@@ -1,6 +1,6 @@
 # Kaggle-ML-Regression
 
-## Detail
+## Abstract
 Machine Learning implementation on various competitions primarily on regression model
 
 ### 1. Titanic: Machine Learning from Disaster
@@ -25,6 +25,9 @@ Machine Learning implementation on various competitions primarily on regression 
 
 ## Presentation
 <img src="presentation.gif" alt="result" width="500">
+
+## Result
+**Top 13%** (334 out of 4307 teams) on the leaderboard
 
 ## References
 **Titatic**
