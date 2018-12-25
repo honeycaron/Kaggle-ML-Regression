@@ -2,6 +2,7 @@
 
 ## Detail
 Machine Learning implementation on various competitions
+
 ### 1. Titanic: Machine Learning from Disaster
 * Practice Skills
  - Binary classification
