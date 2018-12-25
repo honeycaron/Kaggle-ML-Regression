@@ -3,19 +3,19 @@ Machine Learning regression implementation on various competitions in [Kaggle](h
 
 ## Detail
 ### 1. Titanic: Machine Learning from Disaster
-+ Practice Skills
+- Practice Skills
  - Binary classification
  - Python and R basics
   
 ### 2. Bike Sharing Demand
-+ Practice Skills
+- Practice Skills
  - Linear Regression
  - Ridge, Lasso Models
  - Random Forest
  - Gradient Boosting
   
 ### 3. House Prices: Advanced Regression Techniques
-+ Practice Skills
+- Practice Skills
  - Linear Regression
  - Ridge, Lasso, Elastic Net Models
  - Gradient Boosting, XGBoost, LGBM
