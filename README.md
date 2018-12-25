@@ -26,7 +26,7 @@ Machine Learning implementation on various competitions primarily on regression 
 ## Presentation
 <img src="presentation.gif" alt="result" width="500">
 
-## Reference
+## References
 **Titatic**
 1.  Predicting Titanic Survivors by **Minsuk Heo**
 <br>https://www.youtube.com/watch?v=aqp_9HV58Ls
