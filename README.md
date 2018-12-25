@@ -26,7 +26,7 @@ Machine Learning regression implementation on various competitions in [Kaggle](h
 <img src="presentation.gif" alt="result" width="500">
 
 ## Result
-**Top 13% (334 out of 4307 teams)** on the leaderboard (MetaModel: XGB: LGBM = 0.4:0.3:0.3 )
+**Top 13% (334 out of 4307 teams)** on the leaderboard (MetaModel: XGB: LGBM = 0.4:0.3:0.3)
 
 ## References
 **Titatic**
