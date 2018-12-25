@@ -30,9 +30,11 @@ Machine Learning implementation on various competitions primarily on regression 
 **Titatic**
 1.  Predicting Titanic Survivors by **Minsuk Heo**
 <br>https://www.youtube.com/watch?v=aqp_9HV58Ls
+
 **Bike**
 1. Predicting Bike Sharing Demand by **todaycodes**
 <br>https://www.youtube.com/watch?v=Q_MbN-vu_2w 
+
 **House**
 1. Comprehensive data exploration with Python by **Pedro Marcelino** 
 <br>https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python
