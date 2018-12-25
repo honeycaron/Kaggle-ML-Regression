@@ -1,8 +1,7 @@
 # Kaggle-ML-Regression
+Machine Learning regression implementation on various competitions
 
-## Abstract
-Machine Learning implementation on various competitions primarily on regression model
-
+## Detail
 ### 1. Titanic: Machine Learning from Disaster
 ####   Practice Skills
  - Binary classification
